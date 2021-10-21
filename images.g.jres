@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAKoAAAAAAAAAqnAHAAAAAMCqAAcAAAAAXKUAdwAAAABcqgBwBwAAwFyqAHB3AADAqnp3d3cHAMCqend3d3d3wKoKAHd3d3cAqgpwd3cAAACqAHB3AAAAAKAAdwcAAAAAoAB3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Flower"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVfUAAAAAAAA5VQUAAAAA8P//DwAAAABWVVUFAAAAYPb//w8AAGBmmVlVBQAAYJmZWVUFAACQmZn5/w8AAJCZmf//DwAAAJlZVVUAAAAAAFBVVQAAAAAAAP//AAAAAAAAAA8AAAAAAAAADwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bee"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
